@@ -1,4 +1,4 @@
-# Stitching Together the Three Pillars
+# Front-End Web Programming
 
 ## Learning Goals
 
